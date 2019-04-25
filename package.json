@@ -1,0 +1,22 @@
+{
+  "name": "funcjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exercisefem.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kebabkase/Fibo-Using_Functional-JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kebabkase/Fibo-Using_Functional-JS/issues"
+  },
+  "homepage": "https://github.com/kebabkase/Fibo-Using_Functional-JS#readme",
+  "dependencies": {
+    "underscore": "^1.9.1"
+  }
+}
